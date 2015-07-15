@@ -21,13 +21,11 @@ public class GreekMythology {
 	@Instance("greekmythology")
 	public static GreekMythology instance;
 
-	@EventHandler 
+	@EventHandler
 	public void preInit(FMLPreInitializationEvent event) {
-		for(;;) {
-			System.out.println(MODID);
-		}
+
 	}
-	
+
 	@EventHandler
 	public void init(FMLInitializationEvent event) {
 
