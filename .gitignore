@@ -46,3 +46,27 @@ eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/2c/005b52d5152b00
 eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/2f/d0c18823192b001516dd96437990d214
 eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/2c/60041070a02a0015167fe6483dcedfcf
 eclipse/saves/New World/stats/fa57a584-be0c-37cc-aa91-b7d78367c493.json
+*.prefs
+*.index
+.gradle/gradle.log
+README.txt
+eclipse/RemoteSystemsTempFiles/.project
+eclipse/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps
+*.log
+eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/1f/c060a5ae502b0015111ddbfc58cdda88
+eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/3a/60f1ebbe502b0015111ddbfc58cdda88
+*.tree
+eclipse/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+bin/goldcoin.json
+eclipse/.metadata/version.ini
+*.setup
+eclipse/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+eclipse/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt
+eclipse/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark
+eclipse/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+eclipse/.metadata/.plugins/org.eclipse.epp.logging.aeri.ui/history/segments_1
+eclipse/.metadata/.plugins/org.eclipse.epp.logging.aeri.ui/remote-index/segments_2
+eclipse/.metadata/.plugins/org.eclipse.jdt.core/.org.eclipse.jdt.core.external.folders/.project
+eclipse/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+*.history
+forge-1.8-11.14.3.1450-changelog.txt
