@@ -31,7 +31,7 @@ public class GreekMythology {
 
 		GoldCoin = new ItemGoldCoin();
 
-		GameRegistry.registerItem(GoldCoin, "goldcoin");
+		GameRegistry.registerItem(GoldCoin, "gold coin");
 
 	}
 }
